@@ -1,0 +1,49 @@
+.heading{
+    padding-top: 100px;
+    /* top: 211px; */
+    /* left: 359px; */
+    /* width: 648px; */
+    /* height: 56px; */
+    margin-left: 60px;
+    text-align: center;
+    font: normal normal bold 41px Open Sans; 
+    /* letter-spacing: 0px; */
+    color: #000000;
+    /* opacity: 1;  */
+}
+
+.div-class{
+    text-align: center;
+    font: normal normal bold 41px/56px Open Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.paragraph{
+    top: 283px;
+    left: 179px;
+    right: 179px;
+    width: 1008px;
+    margin-left: 160px;
+    /* height: 76px; */
+    text-align: center;
+    font: normal normal normal 28px/40px Open Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.8;
+}
+
+.landing_page_button{
+    color: #FFFFFF;;
+    border-radius: 32px;
+    background-color: #7ECB20;
+    text-align: center;
+    top: 407px;
+    left: 565px;
+    width: 236px;
+    height: 53px;
+    font: normal normal bold 24px/33px Open Sans;
+    border:none;
+    outline: none !important;
+}

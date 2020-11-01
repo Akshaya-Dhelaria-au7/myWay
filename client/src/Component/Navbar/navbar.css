@@ -1,0 +1,137 @@
+li{
+    /* top: 24px;
+    left: 11px;
+    width: 100px;
+    height: 30px; */
+    position: relative;
+    display: flex;
+    list-style: none !important;
+    text-decoration: none;
+    color:black;
+    justify-content: flex-start;
+    flex-flow: row;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    flex: 1;
+    flex-grow: initial;
+}
+
+ul{
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.nav-item-instant {
+    display: flex;
+    justify-content: space-around;
+    top: 20px;
+    left: 11px;
+    width: 100px;
+    height: 30px;
+    float:left;
+        justify-content: center;
+    width: 100%;
+    padding: 0.4em 0.8em;
+    border-radius: 5px;
+}
+
+.navbar{
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 55px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #0000000F;
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    /* position: absolute; */
+    float:left;
+}
+
+
+.select{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: none;
+    width: 150px;
+    text-align: center;
+    font: normal normal normal 16px/22px Open Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+select,option {
+    position: relative;
+    /* margin: 40px; */
+    background-color: white;
+    color: white;
+    text-shadow: rgb(54, 51, 51);
+}
+
+.signup{
+    letter-spacing: 0px;
+    font-family: Open Sans;
+    font-weight:500 ;
+    font-size: 16.2px;
+    color:#7ECB20 !important;
+    text-decoration: none;
+    border: none;
+    background-color: #FFFFFF;
+    
+}
+
+.login{
+    background-color: #7ECB20;
+    border-radius: 32px;
+    font: normal normal bold 24px/33px Open Sans;
+    top: 24px;
+    left: 1174px;
+    width: 100px;
+    height: 30px;
+    text-align: left;
+    font: normal normal 600 16px/22px Open Sans;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    font-weight: 300;
+}
+
+.instant-apply-img{
+    position: absolute;
+    /* display: flex; */
+    /* flex-flow: row; */
+    top: 10px;
+    right: 104px;
+    /* width: 32px; */
+    /* height: 32px; */
+    /* background: transparent url('Instant_logo.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
+
+.login{
+    text-align: left;
+    font: normal normal 600 16px/22px Open Sans;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
+    border:1px solid #7ECB20;
+    align-items: center;
+    right:0;
+    position: fixed;
+}
+
+.Navbarbar{
+    height: 73px;
+}
