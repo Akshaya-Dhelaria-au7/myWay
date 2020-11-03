@@ -55,7 +55,7 @@ class Login extends Component{
 
                     <h3 className="modal-title">Login</h3>
                    <br/>
-                   <div style={{'border':'2px solid #F5F5F5'}}>
+                   <div style={{'border':'2px solid #F5F5F5','width':'100%','heigth':'100%'}}>
                    <br/>
                    <p style={{'color':'#7ECB20'}}>Student</p>
                    <hr style={{'width':'100px'}}/>

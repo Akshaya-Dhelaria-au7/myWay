@@ -19,6 +19,7 @@ function LandingPage(){
         <p>Exploring internships or jobs? Say good-bye to the typical job portals and use the power of Artificial Intelligence to become successful, faster.</p>
         </div>
         <br/>
+        <br/>
         <button className="landing_page_button" onClick={clickHandler}>Get Started</button>
         </Fragment>
     )
