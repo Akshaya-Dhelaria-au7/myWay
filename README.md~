@@ -19,7 +19,7 @@ npm start
 
 This application is also deployed on Heroku and the link is 
 
-[My Ways](https://shrouded-shore-90813.herokuapp.com)
+[My Ways](http://quiet-wave-00869.herokuapp.com)
 
 # Tools and technologies used:
 
@@ -53,4 +53,4 @@ Axios: Axios is a lightweight, promise-based HTTP client. It is the library that
  
 React-Router-Dom: This package is used to navigate between different components , changing the browser URL.
 
-[Frontend Deployed on Herokuapp](https://shrouded-shore-90813.herokuapp.com)
+[Frontend Deployed on Herokuapp](http://quiet-wave-00869.herokuapp.com)
